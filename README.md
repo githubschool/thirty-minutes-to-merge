@@ -18,7 +18,16 @@ Enable GitHub Pages in Repository Settings:
 
 ## GitHub Flow
 [GitHub Flow Graphic](https://guides.github.com/introduction/flow/)
+![github_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/github_flow.png)
 
+Choose a branching strategy that works for you, here are some things to consider:
+- Simple and easy to manage
+- Fast and light weight - "deploy early, deploy often"
+- Works well with CI/CD strategies
+- Good for continuous release 
+- Doesn't support multiple versions
+
+### Hands on activity
 :octocat: Oh no! The link in our README file isn't correct. Let's use the GitHub Flow to correct our README file.
 - [ ] TODO - Fix the URL in the README.md file.
 1. Create a branch
@@ -27,9 +36,21 @@ Enable GitHub Pages in Repository Settings:
 1. Merge your approved changes into the main branch.
 1. :tada: Celebrate! You just completed the GitHub Flow. :tada:
 
+---
+
 ## Git Flow
 ![git_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/gitflow_1.png)
 
+Choose a branching strategy that works for you, here are some things to consider:
+- Works well in slow development/deployment flow
+- Better suited for longer development cycles and a more structured development process
+- Works well if you need to maintain multiple versions in production
+- Good for planned releases
+- Slower, more methodical process
+- "Heavy-weight" - more overhead
+
+
+### Hands on activity
 1. Create a feature branch from the main branch named `feature-changespeed`
 1. On line 78 of the `index.html` file, alter the `start` and `min` values.
 1. Create a feature branch from the main branch named `feature-changecolor`
