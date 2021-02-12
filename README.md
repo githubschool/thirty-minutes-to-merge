@@ -27,6 +27,7 @@ Enable GitHub Pages in Repository Settings:
 1. :tada: Celebrate! You just completed the GitHub Flow. :tada:
 
 ## Git Flow
+![git_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/gitflow_1.png)
 
 1. Create a feature branch from the main branch named `feature-changespeed`
 1. On line 78 of the `index.html` file, alter the `start` and `min` values.
