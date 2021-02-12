@@ -17,6 +17,7 @@ Enable GitHub Pages in Repository Settings:
 1. Once saved, you will be provded with a URL where your GitHub Page is being hosted.
 
 ## GitHub Flow
+[GitHub Flow Graphic](https://guides.github.com/introduction/flow/)
 
 :octocat: Oh no! The link in our README file isn't correct. Let's use the GitHub Flow to correct our README file.
 - [ ] TODO - Fix the URL in the README.md file.
