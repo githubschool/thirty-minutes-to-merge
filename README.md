@@ -20,7 +20,7 @@ Enable GitHub Pages in Repository Settings:
 [GitHub Flow Graphic](https://guides.github.com/introduction/flow/)
 ![github_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/github_flow.png)
 
-Choose a branching strategy that works for you, here are some things to consider:
+Choose a branching strategy that works for you, here are some things to consider about GitHub Flow:
 - Simple and easy to manage
 - Fast and light weight - "deploy early, deploy often"
 - Works well with CI/CD strategies
@@ -41,7 +41,7 @@ Choose a branching strategy that works for you, here are some things to consider
 ## Git Flow
 ![git_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/gitflow_1.png)
 
-Choose a branching strategy that works for you, here are some things to consider:
+Choose a branching strategy that works for you, here are some things to consider about Git Flow:
 - Works well in slow development/deployment flow
 - Better suited for longer development cycles and a more structured development process
 - Works well if you need to maintain multiple versions in production
