@@ -19,6 +19,10 @@ Enable GitHub Pages in Repository Settings:
 1. Click "Save" button to save this setting.
 1. Once saved, you will be provded with a URL where your GitHub Page is being hosted.
 
+Enable GitHub Actions:
+1. Click the "Actions" tab in the repository navigation menu
+1. Click the large green button that reads "I understand my workflows, go ahead and enable them"
+
 ## GitHub Flow
 [GitHub Flow Graphic](https://guides.github.com/introduction/flow/)
 ![github_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/github_flow.png)
