@@ -8,6 +8,9 @@ You can play the game at: https://githubschool.github.io/thirty-minutes-to-merge
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
+Slide Deck: [Branching Strategies.pdf](https://github.com/githubschool/thirty-minutes-to-merge/files/6069357/Branching.Strategies.pdf)
+
+
 ## Initial Repo Setup (Student)
 Enable GitHub Pages in Repository Settings:
 1. Click the "Settings" tab in the repository navigation menu
@@ -15,6 +18,10 @@ Enable GitHub Pages in Repository Settings:
 1. Click the button that says "None" to select which branch you would like to serve your GitHub page from.  For this demo, choose "main".
 1. Click "Save" button to save this setting.
 1. Once saved, you will be provded with a URL where your GitHub Page is being hosted.
+
+Enable GitHub Actions:
+1. Click the "Actions" tab in the repository navigation menu
+1. Click the large green button that reads "I understand my workflows, go ahead and enable them"
 
 ## GitHub Flow
 [GitHub Flow Graphic](https://guides.github.com/introduction/flow/)
@@ -55,8 +62,6 @@ Choose a branching strategy that works for you, here are some things to consider
 1. On line 78 of the `index.html` file, alter the `start` and `min` values.
 1. Create a feature branch from the main branch named `feature-changecolor`
 1. On lines 116 through 122 of the `index.html` file, alter the `color`values to any color you like.
-1. Create a feature branch from the main branch named `feature-movebackground`
-1. Create a folder called `images` in the root of the project. Next, move the `texture.jpg`file into that folder. Then, alter line 9 of the `index.html`file so that the `background:` value points to the image inside the new `images` folder. It should look like this: `url(images/texture.jpg);`
 1. Create a pull request from each feature branch into the `develop` branch.
 1. Review and approve each Pull Request and merge the new feature into the `develop` branch
 1. Time to go to production! Now open a pull request from the develop branch into the main branch.
@@ -66,4 +71,3 @@ While following along, if you don't want to create the branches and make modific
 
 - `ex-changespeed`
 - `ex-changecolor`
-- `ex-movebackground`
