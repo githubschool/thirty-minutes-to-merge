@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with branching with Git.
 
-You can play the game at: https://githubschool.github.io/thirty-minutes-to-merge/
+You can play the game at: https://githubschool.github.io/thirty-minutes-to-merge/pratyay7
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
@@ -68,6 +68,8 @@ Choose a branching strategy that works for you, here are some things to consider
 1. Time for final review and approval, then promote the develop branch to production - merge develop into production.
 
 While following along, if you don't want to create the branches and make modifications to the files in the repository you can use the following branches when we discuss a Git Flow workflow:
+
+thisi is a change new change
 
 - `ex-changespeed`
 - `ex-changecolor`
