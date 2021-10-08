@@ -69,5 +69,7 @@ Choose a branching strategy that works for you, here are some things to consider
 
 While following along, if you don't want to create the branches and make modifications to the files in the repository you can use the following branches when we discuss a Git Flow workflow:
 
+thisi is a change new change
+
 - `ex-changespeed`
 - `ex-changecolor`
