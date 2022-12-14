@@ -3,6 +3,7 @@
 A project based learning activity for people who are getting started with branching with Git.
 
 You can play the game at:  https://aaugustine.github.io/thirty-minutes-to-merge/
+### The above link is editted
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
