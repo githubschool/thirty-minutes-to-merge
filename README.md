@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with branching with Git.
 
-You can play the game at: https://githubschool.github.io/thirty-minutes-to-merge/
+You can play the game at: https://steven-keller.github.io/thirty-minutes-to-merge/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
