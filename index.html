@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Javascript Tetris</title>
+  <title>Javascript Tetris Trial - Branching </title>
   <style>
     body      { font-family: Helvetica, sans-serif; }
     #tetris   { margin: 1em auto; padding: 1em; border: 4px solid black; border-radius: 10px; background-color: #F8F8F8; }
@@ -75,7 +75,7 @@
         ctx     = canvas.getContext('2d'),
         ucanvas = get('upcoming'),
         uctx    = ucanvas.getContext('2d'),
-        speed   = { start: 0.6, decrement: 0.005, min: 0.1 }, // how long before piece drops by 1 row (seconds)
+        speed   = { start: 0.5, decrement: 0.005, min: 0.1 }, // how long before piece drops by 1 row (seconds)
         nx      = 10, // width of tetris court (in blocks)
         ny      = 20, // height of tetris court (in blocks)
         nu      = 5;  // width/height of upcoming preview (in blocks)
