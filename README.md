@@ -25,7 +25,7 @@ Enable GitHub Actions:
 
 ## GitHub Flow
 [GitHub Flow Graphic](https://guides.github.com/introduction/flow/)
-![github_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/github_flow.png)
+[github_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/github_flow.png)
 
 Choose a branching strategy that works for you, here are some things to consider about GitHub Flow:
 - Simple and easy to manage
